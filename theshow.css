@@ -1,0 +1,33 @@
+body{
+	background-image: url("http://i.imgur.com/4YryAWx.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-color:white;
+	}
+.nav{
+	display: inline;
+	padding-top: 10%;
+	padding-left: .5%;
+	padding-right: .5%;
+	padding-bottom: 10%;
+	}
+ul{
+	text-align: center;
+	}
+a:link{
+	text-decoration:none;
+	font-size: 25px;
+}
+a:hover{
+		text-decoration: underline;
+}
+a:active{
+		text-decoration: bold;
+}
+.footer{
+		text-align: bottom;
+		text-align: center;
+		display:block;
+		font-size:10px;
+}
